@@ -3,3 +3,5 @@ __pycache__
 datasets
 models
 temp
+
+05_going_modular/data/pizza_steak_sushi
